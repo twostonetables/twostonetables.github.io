@@ -1,0 +1,84 @@
+body {
+    margin: 10px auto;
+    text-align: center;
+    width: 550px;
+    height: 729px;
+    font-family: "Inter", sans-serif;
+    background-color: #F4F4F4;
+}
+
+#convert-section {
+    display: flexbox;
+    justify-items: center;
+    color: white;
+    background-color: #6943FF;
+    padding: 33px 50px;
+    font-size: 20px;
+}
+#convert-section h1{
+    font-size: 28px;
+    font-weight: bold;    
+}
+/* #user-input {
+    width: 20%;
+    font-size: 58px;
+    font-weight: bold;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 30px 35px;
+} */
+
+#user-input {
+    color: white;
+    background-color: #6943FF;
+    display: block;
+    width: 24%;
+    font-size: 58px;
+    font-weight: bold;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 30px 35px;
+}
+
+#convert-section p {
+    width: 20%;
+    font-size: 58px;
+    font-weight: bold;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 30px 35px;
+}
+#convert-btn { 
+    background-color: white;
+    padding: 9px 27.5px;
+    border: none;
+    border-radius: 5px;
+    color: 353535;
+}
+#convert-btn:hover {
+    background-color: #B295FF;
+    color: white;
+    cursor: pointer;
+}
+#conversion-section {
+    display: flexbox;
+    justify-content: center;
+    margin-bottom: 10px;
+    
+}
+#container {
+    margin: 36px 25px; 
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px 77px 18px;
+    color: #353535;
+}
+
+#container h2 {
+    color: #5A537B;
+    font-size: 20px;
+    font-weight: bolder;
+}
